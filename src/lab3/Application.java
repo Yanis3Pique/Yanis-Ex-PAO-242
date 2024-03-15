@@ -99,6 +99,7 @@ public class Application {
                             int clasa = cin.nextInt();
                             Student studentUpdated = new Student(nume, telefon, mail, nrMatricol, medie, clasa);
                             service.updateStudent(studentUpdated, cautaNume);
+                            cin.nextLine();
                             break;
                         case "profesor":
                             System.out.print("Dati nume de cautat=");
@@ -116,6 +117,7 @@ public class Application {
                             int an = cin.nextInt();
                             Professor profesorUpdated = new Professor(nume, telefon, mail, curs, an);
                             service.updateProfessor(profesorUpdated, cautaNume);
+                            cin.nextLine();
                             break;
                     }
                     break;

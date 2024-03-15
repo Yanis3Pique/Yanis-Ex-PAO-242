@@ -41,11 +41,11 @@ public class Student extends Person{
 
     @Override
     public String toString() {
-        return  "Name: " + this.getName() + "\n" +
-                "Phone Number: " + this.getPhoneNumber() + "\n" +
-                "Email " + this.getEmail() + "\n" +
-                "Student Number: " + this.getStudentNumber() + "\n" +
-                "Average Mark: " + this.getAverageMark() + "\n" +
-                "Class: " + this.getClasa() + "\n";
+        return  "Name: " + getName() + "\n" +
+                "Phone Number: " + getPhoneNumber() + "\n" +
+                "Email " + getEmail() + "\n" +
+                "Student Number: " + getStudentNumber() + "\n" +
+                "Average Mark: " + getAverageMark() + "\n" +
+                "Class: " + getClasa() + "\n";
     }
 }

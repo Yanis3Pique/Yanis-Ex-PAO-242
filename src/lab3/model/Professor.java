@@ -33,10 +33,10 @@ public class Professor extends Person{
 
     @Override
     public String toString() {
-        return  "Name: " + this.getName() + "\n" +
-                "Phone Number: " + this.getPhoneNumber() + "\n" +
-                "Email " + this.getEmail() + "\n" +
-                "Course: " + this.getCourse() + "\n" +
-                "Year: " + this.getYear() + "\n";
+        return  "Name: " + getName() + "\n" +
+                "Phone Number: " + getPhoneNumber() + "\n" +
+                "Email " + getEmail() + "\n" +
+                "Course: " + getCourse() + "\n" +
+                "Year: " + getYear() + "\n";
     }
 }
