@@ -1,6 +1,6 @@
-package lab4.Forme_geometrice;
+package lab4.PrimulEx.Forme_geometrice;
 
-import lab4.Interfete.Calcul;
+import lab4.PrimulEx.Interfete.Calcul;
 
 public class Patrulater implements Calcul {
     private double L;

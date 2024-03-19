@@ -1,6 +1,6 @@
-package lab4;
+package lab4.PrimulEx;
 
-import lab4.Forme_geometrice.*;
+import lab4.PrimulEx.Forme_geometrice.*;
 
 public class Application {
     public static void main(String[] args) {
