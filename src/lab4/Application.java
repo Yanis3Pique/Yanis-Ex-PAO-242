@@ -2,7 +2,7 @@ package lab4;
 
 import lab4.Forme_geometrice.*;
 
-public class Main {
+public class Application {
     public static void main(String[] args) {
         Cerc cerc = new Cerc(2.5);
         Patrulater patrulater = new Patrulater(4.7, 10.3);
