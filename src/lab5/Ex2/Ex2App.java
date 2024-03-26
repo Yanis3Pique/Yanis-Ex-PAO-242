@@ -7,7 +7,8 @@ public class Ex2App {
         System.out.println("Lungimea sirului = " + sir.length());
 
         //2)
-        System.out.println("Contine sirul doar litere mici si/sau mari?   --->   " + sir.matches("[a-zA-Z]+"));
+        System.out.println("Contine sirul doar litere mici si/sau mari?   --->   " + sir.replace(" ", "a").replace(".", "a").matches("[a-zA-Z]+"));
+        // Sau puteam sa scriu si --->  System.out.println(sir.matches("[a-zA-Z .]+"));
 
         //3)
         String[] sir_impartit = sir.split(" ");
