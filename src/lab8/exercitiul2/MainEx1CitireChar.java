@@ -27,7 +27,6 @@ public class MainEx1CitireChar {
                 }
             }
 
-            // Now, print names that appear more than once
             for (Map.Entry<String, Integer> entry : nameCounts.entrySet()) {
                 if (entry.getValue() > 1) {
                     System.out.println(entry.getKey() + " apare de " + entry.getValue() + " ori");
