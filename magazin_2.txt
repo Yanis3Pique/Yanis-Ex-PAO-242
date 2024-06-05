@@ -1,0 +1,5 @@
+MegaImage,Sapun,10,15.5
+Penny,Minge,20,25.0
+Carrefour,Sapun,30,35.5
+MegaImage,Pix,40,45.0
+Penny,Sapun,50,55.5

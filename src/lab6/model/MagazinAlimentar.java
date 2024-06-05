@@ -2,7 +2,12 @@ package lab6.model;
 
 import lab6.interfete.FunctieGenericaChirie;
 
-public class MagazinAlimentar implements FunctieGenericaChirie {
+public class MagazinAlimentar extends Magazin implements FunctieGenericaChirie {
+
+    public MagazinAlimentar(String id, String numeMagazin, Proprietar proprietar, int venit, int suprafata) {
+        super(id, numeMagazin, proprietar, venit, suprafata);
+    }
+
     @Override
     public int functieChirie(int x) {
         return 2 * x;

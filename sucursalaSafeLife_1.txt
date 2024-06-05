@@ -1,0 +1,4 @@
+RCA, Ion Popescu, 1500, București
+CASCO, Maria Ionescu, 2000, Cluj-Napoca
+RCA, Mihai Georgescu, 1200, Iași
+CASCO, Ana Popa, 2500, Timișoara

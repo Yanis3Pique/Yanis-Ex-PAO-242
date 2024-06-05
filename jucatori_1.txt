@@ -1,0 +1,5 @@
+Roger Federer,Switzerland,1,8000,20
+Rafael Nadal,Spain,2,7500,18
+Novak Djokovic,Serbia,3,7300,17
+Andy Murray,United Kingdom,4,6800,16
+Stan Wawrinka,Switzerland,5,6500,15

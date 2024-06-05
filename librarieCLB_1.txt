@@ -1,0 +1,5 @@
+Titlu1,Autor1,Editura1,10,29.99
+Titlu2,Autor1,Editura2,15,34.99
+Titlu3,Autor1,Editura1,20,39.99
+Titlu4,Autor4,Editura3,25,44.99
+Titlu5,Autor5,Editura4,30,49.99
