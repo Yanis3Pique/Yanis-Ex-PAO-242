@@ -1,0 +1,4 @@
+Leo;Messi;36;923.0;EUR
+Leo;Messi;36;975.0;EUR
+Gigel;Becali;70;2000.0;RON
+Jaxi;TV;30;500.0;TYR
